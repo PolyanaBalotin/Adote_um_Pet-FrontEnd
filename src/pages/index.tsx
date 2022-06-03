@@ -1,9 +1,19 @@
 import type { NextPage } from 'next'
+import Title from '../userInterface/components/Title/Title'
+
 
 const Home: NextPage = () => {
   return (
     <div>
-      aloha
+      <Title
+        title="" 
+        subtitle={
+          <span>
+            Com um pequeno valor mensal, você <br />
+            pode <strong>adotar um pet virtualmente</strong>
+          </span>
+        } />
+
     </div>
   )
 }

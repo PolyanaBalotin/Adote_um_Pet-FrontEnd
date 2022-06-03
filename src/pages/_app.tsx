@@ -2,7 +2,7 @@ import '../userInterface/styles/globals.css'
 import type { AppProps } from 'next/app'
 import { ThemeProvider } from '@mui/material';
 import theme from '../userInterface/themes/theme';
-import Header from '../components/Header/Header';
+import Header from '../userInterface/components/Header/Header';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return(
