@@ -1,7 +1,12 @@
 import type { NextPage } from 'next';
 import Title from '../userInterface/components/Title/Title';
 import List from '../userInterface/components/List/List';
-import { Dialog, TextField, Grid, DialogActions, Button } from '@mui/material';
+import { Dialog,
+  TextField,
+  Grid,
+  DialogActions,
+  Button,
+  Snackbar } from '@mui/material';
 
 
 const Home: NextPage = () => {
@@ -61,6 +66,11 @@ const Home: NextPage = () => {
           </Button>
         </DialogActions>
       </Dialog>
+
+      <Snackbar 
+        open={ false }
+        message={ 'test' }
+      />
 
     </div>
   )
