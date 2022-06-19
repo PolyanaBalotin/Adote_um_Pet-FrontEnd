@@ -15,7 +15,7 @@ export default function AdminHeader() {
           <Link component={ NextLink } href={ 'pets/cadastro' } >
             <a>Cadastrar Pet</a>
           </Link>
-          <Link component={ NextLink } href={ 'pets/registro' } >
+          <Link component={ NextLink } href={ 'pets/relatorio' } >
             <a>
               Relatório{' '}
               <Box
