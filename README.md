@@ -1,4 +1,5 @@
-**Um website com a ideia de ajudar ONGs financeiramente, adotando um pet virtualmente.**
+### Um website com a ideia de ajudar ONGs financeiramente, adotando um pet virtualmente.
+**Projeto feito durante a semana multi-stack da TreinaWeb**
 
 ## Tecnologias Usadas
 
