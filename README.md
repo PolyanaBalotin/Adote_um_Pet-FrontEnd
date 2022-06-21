@@ -1,4 +1,4 @@
-Um website com a ideia de ajudar ONGs financeiramente, adotando um pet virtualmente.
+**Um website com a ideia de ajudar ONGs financeiramente, adotando um pet virtualmente.**
 
 ## Tecnologias Usadas
 
@@ -19,6 +19,6 @@ Apos o clone utilize npm install para instalar as dependencia e npm start para i
 
 ### Imagens
 
-<img src="[https://ibb.co/Wy3JWZ4](https://i.imgur.com/64IZViI.png)" />
+<img src="[[https://ibb.co/Wy3JWZ4](https://i.imgur.com/64IZViI.png)](https://i.imgur.com/64IZViI.png)" />
 <img src="https://ibb.co/Lh0G2BK" />
 <img src="https://ibb.co/YRf0gW0" />
